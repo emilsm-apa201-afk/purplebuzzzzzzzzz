@@ -31,3 +31,4 @@ C:\Users\Silent Telecomp\source\repos\purplebuzzzzzzzz\obj\Debug\net8.0\refint\p
 C:\Users\Silent Telecomp\source\repos\purplebuzzzzzzzz\obj\Debug\net8.0\purplebuzzzzzzzz.pdb
 C:\Users\Silent Telecomp\source\repos\purplebuzzzzzzzz\obj\Debug\net8.0\purplebuzzzzzzzz.genruntimeconfig.cache
 C:\Users\Silent Telecomp\source\repos\purplebuzzzzzzzz\obj\Debug\net8.0\ref\purplebuzzzzzzzz.dll
+C:\Users\Silent Telecomp\source\repos\purplebuzzzzzzzz\obj\Debug\net8.0\purplebuzzzzzzzz.sourcelink.json
