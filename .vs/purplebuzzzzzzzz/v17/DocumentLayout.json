@@ -3,8 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\views\\wishlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:views\\wishlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\views\\error\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:views\\error\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\views\\singlepage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -29,38 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\controllers\\singlepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:controllers\\singlepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,7 +102,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-17T13:18:47.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:16:43.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:15:05.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Models\\Blog.cs",
+              "RelativeToolTip": "Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T09:37:47.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T09:27:52.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Slide.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Models\\Slide.cs",
+              "RelativeDocumentMoniker": "Models\\Slide.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Models\\Slide.cs",
+              "RelativeToolTip": "Models\\Slide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T08:54:13.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "WishListController.cs",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Controllers\\WishListController.cs",
               "RelativeDocumentMoniker": "Controllers\\WishListController.cs",
@@ -86,25 +182,23 @@
               "RelativeToolTip": "Controllers\\WishListController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T13:21:54.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T13:21:54.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\WishList\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\WishList\\Index.cshtml",
               "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\WishList\\Index.cshtml",
               "RelativeToolTip": "Views\\WishList\\Index.cshtml",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAYwIYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-15T13:21:35.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T13:21:35.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "ErrorController.cs",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Controllers\\ErrorController.cs",
               "RelativeDocumentMoniker": "Controllers\\ErrorController.cs",
@@ -112,12 +206,11 @@
               "RelativeToolTip": "Controllers\\ErrorController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T13:19:03.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T13:19:03.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\Error\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Error\\Index.cshtml",
@@ -125,12 +218,11 @@
               "RelativeToolTip": "Views\\Error\\Index.cshtml",
               "ViewState": "AgIAACwAAAAAAAAAAAAYwE4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-15T13:18:43.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T13:18:43.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 20,
               "Title": "SinglePageController.cs",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Controllers\\SinglePageController.cs",
               "RelativeDocumentMoniker": "Controllers\\SinglePageController.cs",
@@ -138,12 +230,11 @@
               "RelativeToolTip": "Controllers\\SinglePageController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T13:14:36.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T13:14:36.4Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\SinglePage\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\SinglePage\\Index.cshtml",
@@ -151,12 +242,11 @@
               "RelativeToolTip": "Views\\SinglePage\\Index.cshtml",
               "ViewState": "AgIAAOACAAAAAAAAAAAYwAADAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-15T13:13:26.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T13:13:26.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "ShopController.cs",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
@@ -164,12 +254,11 @@
               "RelativeToolTip": "Controllers\\ShopController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T13:10:23.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T13:10:23.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\Shop\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Shop\\Index.cshtml",
@@ -177,12 +266,11 @@
               "RelativeToolTip": "Views\\Shop\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAMoHAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-15T13:09:13.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T13:09:13.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "BlogController.cs",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "Controllers\\BlogController.cs",
@@ -190,38 +278,36 @@
               "RelativeToolTip": "Controllers\\BlogController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T13:01:14.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T13:01:14.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\Blog\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Blog\\Index.cshtml",
               "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\Blog\\Index.cshtml",
               "RelativeToolTip": "Views\\Blog\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAALcBAAAAAAAAAAAWwBgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-15T12:40:04.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T12:40:04.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAANkAAAAAAAAAAAAmwMwAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-12T09:11:54.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -229,47 +315,43 @@
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-12T09:09:32.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T09:09:32.488Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAACACAAAAAAAAAAAWwBQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-12T09:08:40.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T09:08:40.677Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAmwIoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T08:46:42.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T08:46:42.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T08:44:28.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T08:44:28.954Z"
             }
           ]
         }
