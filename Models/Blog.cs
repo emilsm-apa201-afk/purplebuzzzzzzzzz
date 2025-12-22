@@ -1,8 +1,10 @@
-﻿namespace purplebuzzzzzzzz.Models
+﻿using purplebuzzzzzzzz.Models.Base;
+
+namespace purplebuzzzzzzzz.Models
 {
-    public class Blog
+    public class Blog:BaseEntity
     {
-        public int Id { get; set; }
+        
         public DateTime CreatedAt { get; set; }
         public string Title { get; set; }
         public string Description { get; set; }

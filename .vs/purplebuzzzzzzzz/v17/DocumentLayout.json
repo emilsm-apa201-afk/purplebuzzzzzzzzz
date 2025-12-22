@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,20 +59,8 @@
       "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -85,6 +93,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\controllers\\singlepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:controllers\\singlepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\migrations\\20251221184248_createblogstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:migrations\\20251221184248_createblogstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\migrations\\20251221165815_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:migrations\\20251221165815_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 24,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,7 +118,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 23,
+              "Title": "20251221184248_CreateBlogsTable.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Migrations\\20251221184248_CreateBlogsTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251221184248_CreateBlogsTable.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Migrations\\20251221184248_CreateBlogsTable.cs",
+              "RelativeToolTip": "Migrations\\20251221184248_CreateBlogsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:42:48.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20251221165815_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Migrations\\20251221165815_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251221165815_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Migrations\\20251221165815_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20251221165815_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T16:58:16.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T14:51:55.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T14:44:56.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
@@ -114,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
@@ -126,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -138,19 +202,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "Blog.cs",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Models\\Blog.cs",
               "RelativeDocumentMoniker": "Models\\Blog.cs",
               "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Models\\Blog.cs",
               "RelativeToolTip": "Models\\Blog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T09:37:47.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\ViewModels\\HomeVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\HomeVM.cs",
@@ -162,19 +226,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Slide.cs",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Models\\Slide.cs",
               "RelativeDocumentMoniker": "Models\\Slide.cs",
               "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Models\\Slide.cs",
               "RelativeToolTip": "Models\\Slide.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T08:54:13.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "WishListController.cs",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Controllers\\WishListController.cs",
               "RelativeDocumentMoniker": "Controllers\\WishListController.cs",
@@ -186,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\WishList\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\WishList\\Index.cshtml",
@@ -198,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ErrorController.cs",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Controllers\\ErrorController.cs",
               "RelativeDocumentMoniker": "Controllers\\ErrorController.cs",
@@ -210,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\Error\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Error\\Index.cshtml",
@@ -222,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "SinglePageController.cs",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Controllers\\SinglePageController.cs",
               "RelativeDocumentMoniker": "Controllers\\SinglePageController.cs",
@@ -234,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\SinglePage\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\SinglePage\\Index.cshtml",
@@ -246,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "ShopController.cs",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
@@ -258,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\Shop\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Shop\\Index.cshtml",
@@ -270,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "BlogController.cs",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "Controllers\\BlogController.cs",
@@ -282,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\Blog\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Blog\\Index.cshtml",
@@ -294,20 +358,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAANkAAAAAAAAAAAAmwMwAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAMMFAAAAAAAAAAAWwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-12T09:11:54.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T09:11:54.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -319,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -331,25 +394,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAmwIoAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T08:46:42.764Z"
+              "WhenOpened": "2025-12-12T08:46:42.764Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T08:44:28.954Z"
             }

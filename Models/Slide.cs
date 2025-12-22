@@ -1,8 +1,10 @@
-﻿namespace purplebuzzzzzzzz.Models
+﻿using purplebuzzzzzzzz.Models.Base;
+
+namespace purplebuzzzzzzzz.Models
 {
-    public class Slide
+    public class Slide:BaseEntity
     {
-        public int Id { get; set; }
+        
         public string Title { get; set; }
         public int Discount { get; set; }
         public string Description { get; set; }
