@@ -13,9 +13,7 @@ namespace purplebuzzzzzzzz
             builder.Services.AddControllersWithViews();
 
             builder.Services.AddDbContext<AppDbContext>(ops =>
-                ops.UseSqlServer(
-                    "Server=localhost\\SQLEXPRESS;Database=ProniaSlideDb;Trusted_Connection=True;TrustServerCertificate=True;"
-                )
+                ops.UseSqlServer(builder.Configuration.GetConnectionString("Default"))
             );
 
             var app = builder.Build();
@@ -34,7 +32,7 @@ namespace purplebuzzzzzzzz
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}");
+                pattern: "{controller=Home}/{action=Index}/{id?}");
 
             app.Run();
         }

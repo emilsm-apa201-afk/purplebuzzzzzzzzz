@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using purplebuzzzzzzzz.DAL;
 using purplebuzzzzzzzz.Models;
 using purplebuzzzzzzzz.ViewModels;
@@ -23,7 +24,7 @@ namespace purplebuzzzzzzzz.Controllers
             _context = context;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
             //List<Slide> slides = new List<Slide>()
             //{
@@ -55,7 +56,7 @@ namespace purplebuzzzzzzzz.Controllers
             //        Image = "1-1-524x617.png"
             //    }
 
-                
+
             //};
 
             //List<Blog> blogs = new List<Blog>()
@@ -86,76 +87,77 @@ namespace purplebuzzzzzzzz.Controllers
             //    }
             //};
 
-            List<Product> products = new List<Product>()
-            {
-                new Product
-                {
-                    //Id = 1,
-                    Title = "title 1",
-                    Price = 10,
-                    Image ="1-10-270x300.jpg"
-                },
-                 new Product
-                {
-                    //Id = 2,
-                    Title = "title 2",
-                    Price = 20,
-                    Image ="1-7-270x300.jpg"
-                },
-                  new Product
-                {
-                    //Id = 3,
-                    Title = "title 3",
-                    Price = 30,
-                    Image ="1-5-270x300.jpg"
-                },
-                   new Product
-                {
-                    //Id = 4,
-                    Title = "title 4",
-                    Price = 30,
-                    Image ="1-4-270x300.jpg"
-                },
-                   new Product
-                {
-                    //Id = 5,
-                    Title = "title 5",
-                    Price = 30,
-                    Image ="1-2-270x300.jpg"
-                },
-                      new Product
-                {
-                    //Id = 6,
-                    Title = "title 6",
-                    Price = 30,
-                    Image ="1-9-270x300.jpg"
-                },
-                         new Product
-                {
-                    //Id = 7,
-                    Title = "title 7",
-                    Price = 30,
-                    Image ="1-1-270x300.jpg"
-                },
-                            new Product
-                {
-                    //Id = 8,
-                    Title = "title 8",
-                    Price = 30,
-                    Image ="1-3-270x300.jpg"
-                }
-            };
+            //List<Product> products = new List<Product>()
+            //{
+            //    new Product
+            //    {
+            //        //Id = 1,
+            //        Title = "title 1",
+            //        Price = 10,
+            //        Image ="1-10-270x300.jpg"
+            //    },
+            //     new Product
+            //    {
+            //        //Id = 2,
+            //        Title = "title 2",
+            //        Price = 20,
+            //        Image ="1-7-270x300.jpg"
+            //    },
+            //      new Product
+            //    {
+            //        //Id = 3,
+            //        Title = "title 3",
+            //        Price = 30,
+            //        Image ="1-5-270x300.jpg"
+            //    },
+            //       new Product
+            //    {
+            //        //Id = 4,
+            //        Title = "title 4",
+            //        Price = 30,
+            //        Image ="1-4-270x300.jpg"
+            //    },
+            //       new Product
+            //    {
+            //        //Id = 5,
+            //        Title = "title 5",
+            //        Price = 30,
+            //        Image ="1-2-270x300.jpg"
+            //    },
+            //          new Product
+            //    {
+            //        //Id = 6,
+            //        Title = "title 6",
+            //        Price = 30,
+            //        Image ="1-9-270x300.jpg"
+            //    },
+            //             new Product
+            //    {
+            //        //Id = 7,
+            //        Title = "title 7",
+            //        Price = 30,
+            //        Image ="1-1-270x300.jpg"
+            //    },
+            //                new Product
+            //    {
+            //        //Id = 8,
+            //        Title = "title 8",
+            //        Price = 30,
+            //        Image ="1-3-270x300.jpg"
+            //    }
+            //};
 
-            _context.Sliders.AddRange();
-            _context.SaveChanges();
-            _context.Blogs.AddRange();
-            _context.SaveChanges();
+            //_context.Sliders.AddRange();
+            //_context.SaveChanges();
+            //_context.Blogs.AddRange();
+            //_context.SaveChanges();
 
             HomeVM vm = new HomeVM()
             {
-                Slides = _context.Sliders.ToList(),
-                Blogs = _context.Blogs.ToList(),
-                Products = products,
+                Slides =await _context.Sliders.ToListAsync(),
+                Blogs =await _context.Blogs.ToListAsync(),
+                Products =await _context.Products.Include(p=>p.ProductImages).ToListAsync()
+                
             };
             return View(vm);
         }
