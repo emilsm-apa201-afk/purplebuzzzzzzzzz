@@ -13,11 +13,40 @@ namespace purplebuzzzzzzzz.Areas.Admin.Controllers
         {
             _context = context;
         }
-        public async Task<IActionResult> Index()
+        public async Task<ActionResult> Index()
         {
             List<Category> categories = await _context.Categories.Include(c=>c.Products).ToListAsync();
 
             return View(categories);
         }
+
+        
+        public ActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<ActionResult> Create(Category category)
+        {
+            if(!ModelState.IsValid)
+            {
+                return View();
+            }
+
+            bool result = await _context.Categories.AnyAsync(c=>c.Name == category.Name);
+            if(result)
+            {
+
+                ModelState.AddModelError("Name", "Bu category name sistemde var");
+                return View();
+            }
+            await _context.AddAsync(category);
+            await _context.SaveChangesAsync();
+            return RedirectToAction("Index");
+
+            //return Json(category);
+        }
+
     }
 }
