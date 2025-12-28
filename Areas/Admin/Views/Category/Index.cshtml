@@ -46,13 +46,13 @@
                                        @category.Products.Count
                                     </td>
                                     <td>
-                                        <a class="btn btn-warning">
+                                        <a asp-action="update" asp-route-id="@category.Id" class="btn btn-warning">
                                             <i class="mdi mdi-lead-pencil"></i>
                                         </a>
-                                        <a class="btn btn-danger">
+                                        <a class="btn btn-danger" asp-action="delete" asp-route-id="@category.Id">
                                             <i class="mdi mdi-delete"></i>
                                         </a>
-                                        <a class="btn btn-primary">
+                                        <a class="btn btn-primary" asp-action="detail" asp-route-id="@category.Id">
                                             <i class="mdi mdi-dots-vertical"></i>
                                         </a>
                                     </td>
