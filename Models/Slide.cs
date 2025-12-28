@@ -1,4 +1,5 @@
-﻿using purplebuzzzzzzzz.Models.Base;
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using purplebuzzzzzzzz.Models.Base;
 
 namespace purplebuzzzzzzzz.Models
 {
@@ -8,7 +9,10 @@ namespace purplebuzzzzzzzz.Models
         public string Title { get; set; }
         public int Discount { get; set; }
         public string Description { get; set; }
-        public string Image {  get; set; }  
+        public string? Image {  get; set; }  
         public int Order { get; set; }
+
+        [NotMapped]
+        public IFormFile Photo { get; set; }
     }
 }
