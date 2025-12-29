@@ -30,21 +30,21 @@ namespace purplebuzzzzzzzz.Areas.Admin.Controllers
         {
             
 
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
-                return View();
+                return View(slide);
             }
 
-            if (!slide.Photo.ContentType.Contains("image//"))
+            if (!slide.Photo.ContentType.Contains("image/"))
             {
                 ModelState.AddModelError("Photo", "Fayl uygun formatda deyil");
-                return View();
+                return View(slide);
             }
 
             if(slide.Photo.Length > 2*1024*1024)
             {
                 ModelState.AddModelError("Photo", "Faylin hecmi uygun deyil");
-                return View();
+                return View(slide);
             }
 
 

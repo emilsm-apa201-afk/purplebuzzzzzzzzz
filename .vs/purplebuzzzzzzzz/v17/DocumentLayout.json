@@ -210,8 +210,7 @@
               "RelativeToolTip": "Areas\\Admin\\Views\\Slide\\Create.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-28T13:24:28.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T13:24:28.388Z"
             },
             {
               "$type": "Document",
@@ -223,8 +222,7 @@
               "RelativeToolTip": "Areas\\Admin\\Views\\Slide\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-28T13:05:43.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T13:05:43.861Z"
             },
             {
               "$type": "Document",
@@ -234,7 +232,7 @@
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\SlideController.cs",
               "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Areas\\Admin\\Controllers\\SlideController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\SlideController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwDcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAWwB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-28T13:02:03.849Z",
               "EditorCaption": ""
@@ -261,8 +259,7 @@
               "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Index.cshtml",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAEQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-27T14:22:17.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-27T14:22:17.315Z"
             },
             {
               "$type": "Document",
@@ -274,8 +271,7 @@
               "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T14:21:40.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-27T14:21:40.114Z"
             },
             {
               "$type": "Document",
@@ -287,8 +283,7 @@
               "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-27T16:57:47.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-27T16:57:47.936Z"
             },
             {
               "$type": "Document",
@@ -300,8 +295,7 @@
               "RelativeToolTip": "Models\\Slide.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T08:54:13.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T08:54:13.974Z"
             },
             {
               "$type": "Document",
