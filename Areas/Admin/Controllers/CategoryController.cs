@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.CodeAnalysis.CSharp.Syntax;
 using Microsoft.EntityFrameworkCore;
 using purplebuzzzzzzzz.DAL;
 using purplebuzzzzzzzz.Models;
@@ -126,9 +127,16 @@ namespace purplebuzzzzzzzz.Areas.Admin.Controllers
             return RedirectToAction("Index");
         }
 
-        public ActionResult Detail(int? id)
+        public async Task<IActionResult> Detail(int? id)
         {
-            return View();
+            Category? category = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id);
+
+            if (category == null)
+            {
+                return NotFound();
+            }
+
+            return View(category);
         }
     }
 }

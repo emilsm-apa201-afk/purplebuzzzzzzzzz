@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\areas\\admin\\views\\category\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:areas\\admin\\views\\category\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\areas\\admin\\controllers\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:areas\\admin\\controllers\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,20 +31,12 @@
       "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:areas\\admin\\views\\slide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\purplebuzzzzzzzz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:purplebuzzzzzzzz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\areas\\admin\\views\\category\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|solutionrelative:areas\\admin\\views\\category\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D601C76-0FC0-4968-85F6-47D27C99A2B8}|purplebuzzzzzzzz.csproj|c:\\users\\silent telecomp\\source\\repos\\purplebuzzzzzzzz\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -194,7 +194,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -202,19 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slide\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Slide\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-28T13:24:28.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slide\\Index.cshtml",
@@ -226,13 +214,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SlideController.cs",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Areas\\Admin\\Controllers\\SlideController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\SlideController.cs",
               "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Areas\\Admin\\Controllers\\SlideController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\SlideController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAWwB0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-28T13:02:03.849Z",
               "EditorCaption": ""
@@ -251,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Index.cshtml",
@@ -263,19 +251,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAwwIcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T14:21:40.114Z"
+              "WhenOpened": "2025-12-27T14:21:40.114Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Create.cshtml",
@@ -287,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Slide.cs",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Models\\Slide.cs",
               "RelativeDocumentMoniker": "Models\\Slide.cs",
@@ -296,6 +285,31 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T08:54:13.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-28T12:06:29.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slide\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Slide\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-28T13:24:28.388Z"
             },
             {
               "$type": "Document",
@@ -308,18 +322,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-28T08:39:58.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Detail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-28T12:06:29.024Z"
             },
             {
               "$type": "Document",
@@ -347,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "purplebuzzzzzzzz.csproj",
               "DocumentMoniker": "C:\\Users\\Silent Telecomp\\source\\repos\\purplebuzzzzzzzz\\purplebuzzzzzzzz.csproj",
               "RelativeDocumentMoniker": "purplebuzzzzzzzz.csproj",

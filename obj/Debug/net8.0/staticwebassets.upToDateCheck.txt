@@ -190,6 +190,7 @@ wwwroot\assets\images\testimonial\icon\quotation.png
 wwwroot\assets\images\testimonial\user\1.png
 wwwroot\assets\images\testimonial\user\2.png
 wwwroot\assets\images\testimonial\user\3.png
+wwwroot\assets\images\website-images\0946558d-8032-409c-ac8f-8f25956c910epexels-john-289283-1369068.jpg
 wwwroot\assets\images\website-images\1--1rnu4p.png
 wwwroot\assets\images\website-images\1-1-120x120.webp
 wwwroot\assets\images\website-images\1-1-1820x443.jpg
